@@ -1,3 +1,5 @@
+> **Local PowerShell Setup:** Download/extract the ZIP, then run `python -m pip install -r requirements.txt` and `python server.py` in PowerShell, and open `http://127.0.0.1:8765`.
+
 # overtpsyops-frame-check
 
 An open-source, command-line tool for testing disputed video frames through repeatable pixel, cadence, and alignment measurements.
